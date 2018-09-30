@@ -1,0 +1,6 @@
+[submodule "larch-core"]
+	path = larch-core
+	url = https://github.com/riskingh/larch-core
+[submodule "larch-front"]
+	path = larch-front
+	url = https://github.com/riskingh/larch-front
